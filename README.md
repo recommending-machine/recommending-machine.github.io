@@ -1,1 +1,1 @@
-### Thingking Machine.
+### Recommending Machine.
